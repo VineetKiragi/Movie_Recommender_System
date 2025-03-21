@@ -55,6 +55,12 @@ This project is a content-based movie recommendation system that suggests movies
 
 5. View the recommended movies similar to your selection
 
+## Live Demo
+This application is hosted on Heroku at [mvs-vineet.herokuapp.com](https://mrs-vineet.herokuapp.com)
+
+Note: If you're unable to access the UI, the free tier of Heroku might have expired as they've discontinued their free plans.
+
+
 ## Project Structure
 ```
 Movie_Recommender_System/
