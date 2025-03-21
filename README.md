@@ -1,6 +1,6 @@
 # Movie Recommender System
 
-![Movie Recommender System UI](https://i.imgur.com/PuGp7O5.png)
+![Movie Recommender System UI](app_screenshot.png)
 
 ## Overview
 This project is a content-based movie recommendation system that suggests movies similar to a user's movie of interest. The system analyzes movie features such as genre, director, actors, and plot to find movies with similar characteristics.
